@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anantha%20Krishnan%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=V%20Anantha%20Krishnan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" />
 
 </div>
 
@@ -26,7 +26,7 @@ class AnanthaKrishnan:
         self.name       = "V Anantha Krishnan"
         self.college    = "Mar Baselious College of Engineering, Trivandrum"
         self.focus      = ["Machine Learning", "AI Research", "Cybersecurity"]
-        self.goal       = "MEXT Scholarship | ML/AI Research Internship"
+        self.goal       = "ML/AI Research Internship"
         self.email      = "vananthakris@gmail.com"
 
     def currently_learning(self):
@@ -114,7 +114,6 @@ class AnanthaKrishnan:
 | 🎯 Goal | 📅 Status |
 |--------|----------|
 | Master advanced ML/Deep Learning | 🔄 In Progress |
-| MEXT Scholarship Application | 📝 Preparing |
 | Build real-world AI research project | 🚀 Planning |
 | Land ML/Data Science Internship | 🔍 Actively Seeking |
 | Strengthen Cybersecurity skills | 🔄 In Progress |
