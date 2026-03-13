@@ -23,7 +23,7 @@
 ```python
 class AnanthaKrishnan:
     def __init__(self):
-        self.name       = "Anantha Krishnan V"
+        self.name       = "V Anantha Krishnan"
         self.college    = "Mar Baselious College of Engineering, Trivandrum"
         self.focus      = ["Machine Learning", "AI Research", "Cybersecurity"]
         self.goal       = "MEXT Scholarship | ML/AI Research Internship"
