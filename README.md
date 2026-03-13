@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 ```python
-class AnanthaKrishnan:
+class VAnanthaKrishnan:
     def __init__(self):
         self.name       = "V Anantha Krishnan"
         self.college    = "Mar Baselious College of Engineering, Trivandrum"
